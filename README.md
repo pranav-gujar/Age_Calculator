@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Age Calculator WebApp! This web application is designed to calculate age based on the user's inputted birthdate. Developed using HTML5, CSS3, and JavaScript, this project marks the completion of the first task in my 12-week web development internship at CodeAlpha.
+Welcome to the Age Calculator WebApp! This web application is designed to calculate age based on the user's inputted birthdate. Developed using HTML5, CSS3, and JavaScript.
 
 ## Project Features
 
@@ -27,11 +27,11 @@ Welcome to the Age Calculator WebApp! This web application is designed to calcul
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/pranav-gujar/CodeAlpha_Age_Calculator.git
+    git clone https://github.com/pranav-gujar/Age_Calculator.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd CodeAlpha_Age_Calculator
+    cd Age_Calculator
     ```
 3. Open `index.html` in your web browser to view the application.
 
@@ -40,17 +40,3 @@ Welcome to the Age Calculator WebApp! This web application is designed to calcul
 1. Open the Age Calculator WebApp in your web browser.
 2. Enter your birthdate in the provided input fields.
 3. The application will automatically calculate and display your age in years, months, and days.
-
-## Contributing
-
-If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
-
-## Acknowledgements
-
-- Thanks to CodeAlpha for providing the opportunity to work on this project during my web development internship.
